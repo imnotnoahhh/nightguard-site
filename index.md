@@ -1,3 +1,8 @@
+---
+layout: default
+title: NightGuard
+---
+
 [首页](./index.html) · [隐私政策](./privacy.html) · [技术支持](./support.html) · [English](./index.en.html)
 
 ---

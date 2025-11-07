@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy (EN)
+---
+
 [Home](./index.en.html) · [Privacy Policy](./privacy.en.html) · [App Support](./support.en.html) · [中文](./privacy.html)
 
 ---
@@ -23,7 +28,7 @@ This Privacy Policy explains how NightGuard (the “App”) collects, uses, stor
 We only collect data with your permission or when strictly necessary to provide the service.
 
 ### 2.1 Data You Provide
-- Account (optional): Basic identifiers provided by Sign in with Apple (e.g., Apple’s anonymous identifier).  
+- Account: Basic identifiers provided by Sign in with Apple (e.g., Apple’s anonymous identifier).  
 - Feedback & Support: Any messages, screenshots, or contact details you send us.  
 - Subscription: Status of App Store purchases/subscriptions via system APIs.
 
@@ -34,7 +39,7 @@ We only collect data with your permission or when strictly necessary to provide 
 
 ### 2.3 Health & Location (With Consent)
 - HealthKit: Sleep analysis data (e.g., sleep stages, duration) and related health metrics (e.g., heart rate/HRV/respiratory rate), strictly per your authorization.  
-- Location (optional): To provide local weather/context; you can change location permissions anytime in iOS settings.
+- Location: To provide local weather/context; you can change location permissions anytime in iOS settings.
 
 ---
 
