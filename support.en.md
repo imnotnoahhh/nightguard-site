@@ -1,4 +1,4 @@
-[Home](./index.en.md) · [Privacy Policy](./privacy.en.md) · [App Support](./support.en.md) · [中文](./support.md)
+[Home](./index.en.html) · [Privacy Policy](./privacy.en.html) · [App Support](./support.en.html) · [中文](./support.html)
 
 ---
 
@@ -58,7 +58,7 @@ Intermittent sync delays or crashes—please share steps/time to help us diagnos
 ---
 
 ## 7. Legal
-- Privacy Policy: see `./privacy.en.md`  
+- Privacy Policy: see `./privacy.en.html`  
 - Terms of Use (if available): `./terms.md`
 
 ---

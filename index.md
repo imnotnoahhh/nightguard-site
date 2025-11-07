@@ -1,4 +1,4 @@
-[首页](./index.md) · [隐私政策](./privacy.md) · [技术支持](./support.md) · [English](./index.en.md)
+[首页](./index.html) · [隐私政策](./privacy.html) · [技术支持](./support.html) · [English](./index.en.html)
 
 ---
 
@@ -8,6 +8,6 @@
 本页索引了 NightGuard 的隐私政策与技术支持页面（双语）。
 
 ## 链接
-- 隐私政策: [privacy.md](./privacy.md)
-- 技术支持: [support.md](./support.md)
+- 隐私政策: [privacy.html](./privacy.html)
+- 技术支持: [support.html](./support.html)
 
