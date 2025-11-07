@@ -1,3 +1,8 @@
+---
+layout: default
+title: App Support (CN)
+---
+
 [首页](./index.html) · [隐私政策](./privacy.html) · [技术支持](./support.html) · [English](./support.en.html)
 
 ---

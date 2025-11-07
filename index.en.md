@@ -1,3 +1,8 @@
+---
+layout: default
+title: NightGuard (EN)
+---
+
 [Home](./index.en.html) · [Privacy Policy](./privacy.en.html) · [App Support](./support.en.html) · [中文](./index.html)
 
 ---
