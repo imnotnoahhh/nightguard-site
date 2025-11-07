@@ -1,4 +1,4 @@
-[Home](./index.en.md) · [Privacy Policy](./privacy.en.md) · [App Support](./support.en.md) · [中文](./privacy.md)
+[Home](./index.en.html) · [Privacy Policy](./privacy.en.html) · [App Support](./support.en.html) · [中文](./privacy.html)
 
 ---
 
@@ -53,6 +53,10 @@ We only collect data with your permission or when strictly necessary to provide 
 - Service Providers: Limited sharing under contractual confidentiality for diagnostics or support emails only when necessary.  
 - Legal: We may disclose if required by law (e.g., court order).
 
+- We do not sell personal data.
+
+We do not use HealthKit data for advertising, marketing, or data mining; we do not share HealthKit data with any third parties except as necessary to provide health features. We comply with Apple’s HealthKit and App Store Review Guidelines 5.1.3.
+
 > We comply with Apple’s HealthKit and App Store Review Guidelines 5.1.3.
 
 ---
@@ -72,6 +76,8 @@ We only collect data with your permission or when strictly necessary to provide 
   - Use in-app “Delete Account/Clear Data” (if available);  
   - Or email us to request deletion.  
 - Notifications/Location: You can adjust permissions anytime in iOS.
+
+We typically respond to your request within 30 days. Before responding, we may need to reasonably verify your identity using information associated with your account or email to protect your data.
 
 ---
 
@@ -94,6 +100,15 @@ See each service’s own privacy policy/terms for details.
 ## 9. Data Retention
 We retain data only as long as necessary for the purposes described. You may revoke permissions or request deletion anytime; related features may become unavailable.
 
+Example retention periods (adjustable as needed): crash logs ≤ 90 days (diagnostics only); support emails/tickets ≤ 24 months; local caches ≤ 7 days or cleared upon version updates; HealthKit and iCloud/CloudKit synced data are retained or deleted by you.
+
+Current app configuration (for transparency):
+- AI insights cache: 7 days (cleaned every 24 hours)
+- Weather background cache: 1 day (cleaned every 1 hour)
+- Query cache (incl. temporary sleep data and segments): 5 minutes
+- UserDefaults lightweight cache: 30 days (cleaned every 7 days)
+- Persisted sleep data JSON: files remain, but only entries not expired within 5 minutes are accepted at load time (effective validity 5 minutes)
+
 ---
 
 ## 10. International Transfers
@@ -113,6 +128,8 @@ Data may be transferred and stored across regions (e.g., iCloud/CloudKit regiona
 - We do not sell your personal information.  
 - You may request access or deletion of your personal information.  
 - For “Do Not Sell or Share” requests (if applicable), please contact us.
+
+<a href="mailto:NightGuard@vectrakode.com">“Do Not Sell or Share My Personal Information” (CCPA/CPRA)</a>
 
 ---
 
