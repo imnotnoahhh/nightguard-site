@@ -13,24 +13,24 @@ body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica
 <header class="header">
   <div class="nav">
     <div class="left">
-      <a href="./index.md" class="active">首页</a>
-      <a href="./privacy.md">隐私政策</a>
-      <a href="./support.md">技术支持</a>
+      <a href="./index.en.md" class="active">Home</a>
+      <a href="./privacy.en.md">Privacy Policy</a>
+      <a href="./support.en.md">App Support</a>
     </div>
     <div class="lang">
-      <a href="./index.en.md">English</a>
+      <a href="./index.md">中文</a>
     </div>
   </div>
-  </header>
+</header>
 
 <div class="main"></div>
 
-# NightGuard 政策与支持
+# NightGuard Policies & Support
 
-欢迎！  
-本页索引了 NightGuard 的隐私政策与技术支持页面（双语）。
+This page indexes NightGuard's Privacy Policy and App Support pages.
 
-## 链接
-- 隐私政策: [privacy.md](./privacy.md)
-- 技术支持: [support.md](./support.md)
+## Links
+- Privacy Policy: [privacy.en.md](./privacy.en.md)
+- App Support: [support.en.md](./support.en.md)
+
 
