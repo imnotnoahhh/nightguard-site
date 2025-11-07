@@ -1,29 +1,6 @@
-<style>
-:root { --brand:#6b46c1; --text:#111827; --muted:#6b7280; --bg:#f8fafc; --border:#e5e7eb; }
-body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","PingFang SC",sans-serif; background:var(--bg); color:var(--text); }
-.header { position: sticky; top: 0; background:#ffffffcc; backdrop-filter: blur(8px); border-bottom:1px solid var(--border); }
-.nav { max-width:860px; margin:0 auto; padding:12px 20px; display:flex; justify-content:space-between; align-items:center; }
-.nav .left a { margin-right:16px; color:var(--muted); text-decoration:none; }
-.nav .left a.active { color:var(--brand); font-weight:600; }
-.nav .lang a { padding:6px 10px; border:1px solid var(--border); border-radius:8px; text-decoration:none; color:#374151; }
-.nav .lang a.primary { background:var(--brand); color:#fff; border-color:var(--brand); }
-.main { max-width:860px; margin:32px auto; padding:0 20px; }
-</style>
+[首页](./index.md) · [隐私政策](./privacy.md) · [技术支持](./support.md) · [English](./support.en.md)
 
-<header class="header">
-  <div class="nav">
-    <div class="left">
-      <a href="./index.md">首页</a>
-      <a href="./privacy.md">隐私政策</a>
-      <a href="./support.md" class="active">技术支持</a>
-    </div>
-    <div class="lang">
-      <a href="./support.en.md">English</a>
-    </div>
-  </div>
-</header>
-
-<div class="main"></div>
+---
 
 # NightGuard 技术支持
 
