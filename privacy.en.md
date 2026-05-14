@@ -28,7 +28,7 @@ This Privacy Policy explains how NightGuard (the “App”) collects, uses, stor
 We only collect data with your permission or when strictly necessary to provide the service.
 
 ### 2.1 Data You Provide
-- Account: Basic identifiers provided by Sign in with Apple (e.g., Apple’s anonymous identifier).
+- Account: Sign in with Apple identifiers and, if Apple provides them, your name and email address (including private relay email).
 - Feedback & Support: Any messages, screenshots, or contact details you send us.
 - Subscription: Status of App Store purchases/subscriptions via system APIs.
 
@@ -146,4 +146,3 @@ We may update this Policy from time to time and indicate the latest date above. 
 
 ## 14. Contact Us
 For privacy questions or requests, contact: NightGuard@vectrakode.com
-
