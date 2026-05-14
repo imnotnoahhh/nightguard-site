@@ -9,7 +9,7 @@ title: App Support (EN)
 
 # NightGuard App Support
 
-Last Updated: 2025-11-07  
+Last Updated: 2026-05-14
 Contact: NightGuard@vectrakode.com
 
 ---
@@ -20,7 +20,7 @@ NightGuard is an iOS app for sleep analysis and insights. For issues, data reque
 ---
 
 ## 2. Contact Us
-- Support Email: NightGuard@vectrakode.com  
+- Support Email: NightGuard@vectrakode.com
 - Include: device model, iOS version, app version, steps and time
 
 ---
@@ -30,8 +30,8 @@ NightGuard is an iOS app for sleep analysis and insights. For issues, data reque
 ### 3.1 HealthKit Permissions
 If data is missing, re-toggle permissions in iOS Health and re-trigger sync in the app.
 
-### 3.2 iCloud Sync
-Ensure iCloud is enabled; temporary delays may occur due to network/system.
+### 3.2 Local Data Refresh
+Sleep records and health-derived summaries are stored locally by NightGuard. If data is missing, refresh Health permissions and reopen the app.
 
 ### 3.3 Location & Weather
 Grant location to enable local weather insights; check network if unavailable.
@@ -58,17 +58,16 @@ Some features require Apple Watch or supported sensors.
 ---
 
 ## 6. Known Issues
-Intermittent sync delays or crashes—please share steps/time to help us diagnose.
+Intermittent Health permission cache issues or crashes—please share steps/time to help us diagnose.
 
 ---
 
 ## 7. Legal
-- Privacy Policy: see `./privacy.en.html`  
+- Privacy Policy: see `./privacy.en.html`
 - Terms of Use (if available): `./terms.md`
 
 ---
 
 ## 8. Version & Updates
 Check App Store release notes; material changes will be announced here.
-
 
